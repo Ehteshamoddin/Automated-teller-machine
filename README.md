@@ -12,7 +12,7 @@
 
 ## Contribution guide
 - Fork the repository.
-- Clone ``` git clone https://github.com/Ehteshamoddin/learn_Java ``` or Download the Zip.
+- Clone ``` git clone https://github.com/Ehteshamoddin/Automated-teller-machine ``` or Download the Zip.
 - Make Code changes or Documentation (README.md) changes.
 - Add new branch if neccessary ``` git branch <branch-name> ``` and Push the Code changes.
 - Generate new 'Pull request'.
